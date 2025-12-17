@@ -1,0 +1,6 @@
+id,smiles_in,smiles_out,valid_out,exact_match,tanimoto,delta_atoms,delta_bonds,delta_rings
+0,Cn1c(=O)c2c(ncn2C)n(C)c1=O,,0,0,,,,
+1,CC(=O)Oc1ccccc1C(=O)O,CC(=O)Oc1ccccc1C(=O)O,1,1,1.0,0.0,0.0,0.0
+2,CC(=O)Nc1ccc(O)cc1,CC(=O)Nc1ccc(O)cc1,1,1,1.0,0.0,0.0,0.0
+3,CCO,CCOC(=O)c1ccccc1,1,0,0.16666666666666666,8.0,9.0,1.0
+4,CC(C)Cc1ccc(C(C)C(=O)O)cc1,CC(C)Cc1ccc(C(C)C(=O)O)cc1,1,1,1.0,0.0,0.0,0.0
